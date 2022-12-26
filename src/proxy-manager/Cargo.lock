@@ -720,7 +720,7 @@ dependencies = [
  "thiserror",
  "tokio",
  "url",
- "uuid 0.8.2",
+ "uuid 1.2.1",
 ]
 
 [[package]]
