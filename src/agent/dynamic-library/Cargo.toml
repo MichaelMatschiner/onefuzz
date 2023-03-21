@@ -7,7 +7,7 @@ license = "MIT"
 [dependencies]
 anyhow = "1.0"
 lazy_static = "1.4"
-regex = "1.6"
+regex = "1.7"
 structopt = "0.3"
 thiserror = "1.0"
 
